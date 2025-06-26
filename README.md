@@ -2,7 +2,7 @@
 
 🎓 I'm a Software Engineering graduate from **KFUPM**.  
 💡 I'm passionate about AI, Data Analysis, and building meaningful software products.  
-💻 I enjoy working on projects that blend **frontend development**, and **user-centered design**.  
+💻 I enjoy working on projects that blend **frontend development**, and **AI/ML**.  
 
 ### 🚀 A bit about me:
 - 🔍 I led the development of **Adeeb**, an AI-powered HR platform for analyzing exit survey feedback.
