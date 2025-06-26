@@ -5,7 +5,6 @@
 💻 I enjoy working on projects that blend **frontend development**, and **AI/ML**.  
 
 ### 🚀 A bit about me:
-- 🔍 I led the development of **Adeeb**, an AI-powered HR platform for analyzing exit survey feedback.
 - 🧠 I’m especially interested in the intersection of **AI and Data**.
 - 📊 I like to visualize data in ways that help people make better decisions.
 - 🌍 Currently exploring opportunities in **Product Management**, **AI**, or **Data-centric roles**.
